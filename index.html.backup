@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.47.1" />
+  <meta name="author" content="Jason Dai">
+  <meta name="description" content="Jason Dai">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://jason-dai.github.io/">
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+  
+ <link rel="stylesheet" href="/styles.css">
+  
+  <!--
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  <link rel="stylesheet" href="/css/academic.min.1e90017bce2dc39c3f107ce1a180f54f.css">
+  <link rel="stylesheet" href="/css/academic.ab86083fffe10ac2d0af21549b7dd4cd.css">
+
+  <link rel="stylesheet" href="/styles.css">
+  -->
+  
+  <link rel="alternate" href="https://jason-dai.github.io/index.xml" type="application/rss+xml" title="Jason Dai">
+  <link rel="feed" href="https://jason-dai.github.io/index.xml" type="application/rss+xml" title="Jason Dai">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://jason-dai.github.io/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Jason Dai">
+  <meta property="og:url" content="https://jason-dai.github.io/">
+  <meta property="og:title" content="Jason Dai">
+  <meta property="og:description" content="GitHub">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2017-10-15T00:00:00&#43;11:00">
+  
+
+  
+
+  <title>Jason Dai</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/">Jason Dai</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#about" data-target="#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#projects" data-target="#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/#publications" data-target="#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<span id="homepage" style="display: none"></span>
+
+
+  
+
+
+
+
+
+  
+  
+  
+  <section id="about" class="home-section">
+    <div class="container">
+      
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+  <div class="col-xs-12 col-md-4">
+    <div id="profile">
+
+      
+      <div>
+		<img class="portrait" src="img/portrait.jpg" itemprop="image" alt="Avatar">
+	  </div>
+      
+
+      <div class="portrait-title">
+
+        <h3 itemprop="jobTitle">Intel Fellow and Chief Architect, Big Data AI</h3>
+
+        
+        
+
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://software.intel.com/en-us/ai/data-analytics" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">Intel Corporation</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <link itemprop="url" href="https://jason-dai.github.io/">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        <li>
+          <a itemprop="sameAs" href="mailto:jason.dai@gmail.com" target="_blank" rel="noopener">
+			<i class="fa fa-envelope big-icon"></i>
+          </a>
+        </li>
+    
+        <li>
+          <a itemprop="sameAs" href="https://www.linkedin.com/in/jasondai/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+
+        <li>
+          <a itemprop="sameAs" href="tel:+86 18917356678" target="_blank" rel="noopener">
+			<i class="fa fa-phone big-icon"></i>
+          </a>
+        </li>
+
+		</ul>
+
+    </div>
+  </div>
+  <div class="col-xs-12 col-md-8" itemprop="description">
+
+    
+
+<h1 id="biography">Executive Summary</h1>
+
+<p>Recognized technology leader driving the intersection of Big Data and AI; creator of BigDL and Analytics Zoo; founding committer and PMC member of Apache Spark; mentor of Apache MXNet; co-chair of O'Reilly AI Conference Beijing.
+</p>
+
+<p>Lead global engineering teams (in both Silicon Valley and Shanghai) for building disruptive Big Data and AI technology, including:
+<ul>
+<li>Create <a href="https://github.com/intel-analytics/BigDL" target="_blank">BigDL</a> (distributed deep learning framework for Spark), and <a href="https://github.com/intel-analytics/analytics-zoo" target="_blank">Analytics Zoo</a> (Big Data AI platform for distributed TensorFlow/PyTorch on Spark and Ray), which have been adopted by Alibaba Cloud, Tencent Cloud, Azure, DELL EMC, IBM, Cray, Inspur, etc.</li>
+<li>Build real-world AI applications (e.g., recommendation, time series, computer vision and NLP) deployed by large organizations (such as Mastercard, Burger King, CERN, SK Telecom, JD, China Mobile, UnionPay, etc.)</li>
+<li>Joint research with leading universities (e.g., UC Berkeley and SJTU), such as <a href="https://medium.com/riselab/scalable-automl-for-time-series-prediction-using-ray-and-analytics-zoo-b79a6fd08139" target="_blank">AutoML</a> for time series prediction, reinforcement learning for <a href="https://www.slideshare.net/jason-dai/building-ai-to-play-the-fifa-video-game-using-distributed-tensorflow-on-analytics-zoo" target="_blank">playing FIFA video game</a>, large-scale recommendations, etc.</li>
+</ul>
+</p>
+
+
+    <div class="row">
+
+      <div class="col-sm-5">
+        <h3>Experience</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Intel Fellow</p>
+              <p class="institution">Intel, 2021-present</p>
+            </div>
+          </li>
+
+	<li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Sr. Principal Engineer and CTO of Big Data technologies</p>
+              <p class="institution">Intel, 2016-2020</p>
+            </div>
+          </li>
+          
+      
+          <li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Principal Engineer and Engineering Director</p>
+              <p class="institution">Intel, 2014-2015</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Principal Architect and Director, Azure Data Platform</p>
+              <p class="institution">Microsoft, 2014-2014</p>
+            </div>
+          </li>
+
+          <li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Principal Engineer and Director</p>
+              <p class="institution">Intel, 2012-2014</p>
+            </div>
+          </li>
+
+          <li>
+            <i class="fa-li fa fa-dot-circle"></i>
+            <div class="description">
+              <p class="course">Lead Architect and Sr. Manager</p>
+              <p class="institution">Intel, 2003-2011</p>
+            </div>
+          </li>
+
+		  </ul>
+      </div>
+      
+
+      
+      <div class="col-sm-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MSc in Computer Science, 2002</p>
+              <p class="institution">National University of Singapore</p>
+            </div>
+          </li>
+          
+      
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BSc in Computer Science, 2000</p>
+              <p class="institution">Fudan University, Shanghai, China</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+
+</div>
+
+    </div>
+  </section>
+  
+  
+  <section id="projects" class="home-section">
+    <div class="container">
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Projects</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+</p>
+
+    
+    
+    <span class="hidden default-project-filter">*</span>
+    
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+              <a href="#" data-filter="*" class="btn btn-primary btn-large active">All</a>
+			  
+              <a href="#" data-filter=".Framework" class="btn btn-primary btn-large">DL Framework</a>
+			  
+              <a href="#" data-filter=".Platform" class="btn btn-primary btn-large">AI Platform</a>
+
+              <a href="#" data-filter=".AutoML" class="btn btn-primary btn-large">AutoML</a>			  
+                       
+              <a href="#" data-filter=".Application" class="btn btn-primary btn-large">AI Application</a>
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="isotope projects-container row js-layout-row project-showcase mt-5">
+
+
+<div class="col-lg-12 project-item isotope-item js-id-urban-change js-id-urban-patterns Framework" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-first ">
+ 
+      <a href="https://github.com/intel-analytics/BigDL" target="_blank">
+        <img src="/img/bigdl.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://github.com/intel-analytics/BigDL" target="_blank"  itemprop="url">BigDL: A Distributed Deep Learning Framework for Apache Spark</a></h3>     
+      <div class="article-style" itemprop="articleBody">
+        BigDL allows users to write deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters to process Big Data.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col-lg-12 project-item isotope-item js-id-machine-learning Platform js-id-equity js-id-urban-change" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-first ">
+ 
+      <a href="https://github.com/intel-analytics/analytics-zoo" target="_blank" >
+        <img src="/img/analytics.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://github.com/intel-analytics/analytics-zoo" target="_blank" itemprop="url">Analytics Zoo: A Unified Data Analytics and AI Platform</a></h3>
+
+      <div class="article-style" itemprop="articleBody">
+        Analytics Zoo seamlessly unites TensorFlow, Keras, PyTorch, Spark, Flink and Ray programs into an integrated pipeline, which can transparently scale from laptops to large clusters to process production big data.
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div class="col-lg-12 project-item isotope-item AutoML js-id-China js-id-American-Indian-tribes js-id-equity" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-first ">
+   
+      <a href="https://medium.com/riselab/scalable-automl-for-time-series-prediction-using-ray-and-analytics-zoo-b79a6fd08139?source=friends_link&sk=fb8e00c44894a8c8cfab85f79a0576e0" target="_blank" >
+        <img src="/img/automl.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://medium.com/riselab/scalable-automl-for-time-series-prediction-using-ray-and-analytics-zoo-b79a6fd08139" target="_blank"  itemprop="url">Scalable AutoML for Time Series Prediction Using Ray</a></h3>
+
+      <div class="article-style" itemprop="articleBody">
+        It leverages emerging AI technologies (e.g., Ray, hyperparameter optimization, sequence generation models, etc.) to automatically generate feature, select models and tune hyperparameters for time series prediction in a distributed fashion.
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col-lg-12 project-item isotope-item js-id-machine-learning Application js-id-water" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-first ">
+
+      <a href="https://www.slideshare.net/jason-dai/building-ai-to-play-the-fifa-video-game-using-distributed-tensorflow-on-analytics-zoo" target="_blank" >
+        <img src="/img/fifa.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.slideshare.net/jason-dai/building-ai-to-play-the-fifa-video-game-using-distributed-tensorflow-on-analytics-zoo" target="_blank"  itemprop="url">Building AI to play the FIFA Video Game Using Distributed TensorFlow</a></h3>
+
+      <div class="article-style" itemprop="articleBody">
+        Building an experiment platform using both DRL algorithms (e.g., imitation learning, DQN, policy gradient, etc.) as well as computer vision models (e.g., object detection, object tracking, OCR, etc.) to play FIFA18.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="col-lg-12 project-item isotope-item js-id-machine-learning Application js-id-water" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-first ">
+
+      <a href="https://analytics-zoo.github.io/master/#powered-by/" target="_blank" >
+        <img src="/img/skt.jpg" itemprop="image" alt="">
+      </a>
+      
+    </div>
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://analytics-zoo.github.io/master/#powered-by/" target="_blank"  itemprop="url">Real-World Big Data and AI Use Cases on Analytics Zoo</a></h3>
+
+      <div class="article-style" itemprop="articleBody">
+		<ul>
+		    <li style="margin-bottom:0px">Time Series Based Network Quality Prediction in <a href="https://networkbuilders.intel.com/solutionslibrary/sk-telecom-intel-build-ai-pipeline-to-improve-network-quality" target="_blank"  itemprop="url">SK Telecom</a></li>
+		    <li style="margin-bottom:0px">Context-Aware Fast Food Recommendation at <a href="https://medium.com/riselab/context-aware-fast-food-recommendation-at-burger-king-with-rayonspark-2e7a6009dd2d?source=friends_link&sk=19abe770656a0c36c1b67da6f622e358" target="_blank"  itemprop="url">Burger King</a> </li>
+		    <li style="margin-bottom:0px">NLP Based Customer Service Chatbot for <a href="https://www.infoq.com/articles/analytics-zoo-qa-module/" target="_blank"  itemprop="url">Azure</a></li>
+		    <li style="margin-bottom:0px">Computer Vision Based Product Defect Detection in <a href="https://software.intel.com/content/www/us/en/develop/articles/industrial-inspection-platform-in-midea-and-kuka-using-distributed-tensorflow-on-analytics.html" target="_blank"  itemprop="url">Midea</a></li>
+		    <li style="margin-bottom:0px">Etc.</li>
+		<ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="publications" class="home-section wg-featured" >
+    <div class="container">
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Featured Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div class="article-metadata">
+ 
+  <div>
+
+  </div>
+
+</div>
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="https://arxiv.org/abs/1804.05839"  target="_blank" itemprop="url">BigDL: A Distributed Deep Learning Framework for Big Data</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody" align="justify">
+    This paper presents BigDL (a distributed deep learning framework for Apache Spark), which has been used by a variety of users in the industry for building deep learning applications on production big data platforms. It allows deep learning applications to run on the Apache Hadoop/Spark cluster so as to directly process the production data, and as a part of the end-to-end data analysis pipeline for deployment and management. Unlike existing deep learning frameworks, BigDL implements distributed, data parallel training directly on top of the functional compute model (with copy-on-write and coarse-grained operations) of Spark. We also share real-world experience and "war stories" of users that have adopted BigDL to address their challenges(i.e., how to easily build end-to-end data analysis and deep learning pipelines for their production data).
+  </div>
+
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name" align="justify">Jason Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang, Yanzhang Wang, Xianyan Jia, Cherry Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang, Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, Guoqiong Song</span></span>
+
+  </div> 
+
+      <div class="pub-publication">
+        In ACM Symposium of Cloud Computing conference (SoCC) 2019
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.05839.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+      </div>
+
+
+</div>
+
+<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div class="article-metadata">
+
+  <div>
+
+  </div>
+ 
+</div>
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="http://aaai.org/Conferences/AAAI-19/aaai19tutorials/#sp2" target="_blank" itemprop="url">Build Deep Learning Applications for Big Data Platforms Using Analytics Zoo</a>
+  </h3>
+
+  <div class="article-style" itemprop="articleBody" align="justify">
+    Recent breakthroughs in artificial intelligence applications have brought deep learning to the forefront of new generations of data analytics. In this tutorial, we will present the practice and design tradeoffs on building large-scale deep learning applications (such as computer vision and NLP), for production data and workflow on Big Data platforms. We will provide an overview of emerging deep learning frameworks for Big Data (e.g., BigDL, TensorFlowOnSpark, Deep Learning Pipelines for Apache Spark, etc.), and present the underlying distributed systems and algorithms. More importantly, we will show how to build and productionize end-to-end deep learning application pipelines for Big Data (on top of Analytics Zoo, a unified analytics + AI platform for distributed TensorFlow, Keras and BigDL on Apache Spark), using real-world use cases (such as Azure, JD.com, World Bank, Midea/KUKA, etc.)
+  </div>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+       Tutorial in the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI) 2019
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://jason-dai.github.io/aaai2019/" target="_blank" rel="noopener">
+  TUTORIAL
+</a>
+
+      </div>
+
+</div>
+
+<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div class="article-metadata">
+ 
+  <div>
+
+  </div>
+
+</div>
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="https://ieeexplore.ieee.org/document/5452747" target="_blank" itemprop="url">The HiBench Benchmark Suite: Characterization of the MapReduce-Based Data Analysis </a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody" align="justify">
+    MapReduce and its popular open source implementation, Hadoop, are moving toward ubiquitous for Big Data storage and processing. Therefore, it is essential to quantitatively evaluate and characterize the Hadoop deployment through extensive benchmarking. We present HiBench, a representative and comprehensive benchmark suite forHadoop, which consists of a set of Hadoop programs including both synthetic micro-benchmarks and real-world applications.
+  </div>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai, Shengsheng Huang, Jie Huang, Yan Liu</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of the 26th International Conference on Data Engineering Whokshops (ICDEW) 2010
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://pdfs.semanticscholar.org/0a4f/74e5b8cfc168a36e3cb8aceb9c70315dde99.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+</div>
+<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+<div class="article-metadata">
+ 
+  <div>
+
+  </div>
+
+</div>
+
+  <h3 class="article-title mb-1 mt-3" itemprop="name">
+    <a href="https://dblp.org/db/conf/pldi/pldi2005" target="_blank" itemprop="url">Automatically Partitioning Packet Processing Applications for Pipelined Architectures</a>
+  </h3>
+
+  
+  <div class="article-style" itemprop="articleBody" align="justify">
+    Modern network processors employs parallel processing engines(PEs) to be organized in a pipelined fashion to enable higher processing throughput and flexibility. In this paper, we present a novel program transformation technique to automatically partitions a sequential packet processing application into coordinated pipelined parallel subtasks, which can be naturally mapped to contemporary high performance network processors. We have implemented the proposed transformation method in an auto-partitioning C compiler product for Intel Network Processors. Experimental results show that our method provides impressive speed up for the commonly used NPF IPv4 forwarding and IP forwarding benchmarks.
+  </div>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jinquan Dai, Bo Huang, Long Li, Luddy Harrison</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In ACM 2005 Sigplan Conference on Programming Language Design and Implementation (PLDI 2005)
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.researchgate.net/profile/Bo_Huang7/publication/220751888_Automatically_partitioning_packet_processing_applications_for_pipelined_architectures/links/00b7d51b876c7772ef000000/Automatically-partitioning-packet-processing-applications-for-pipelined-architectures.pdf?_sg%5B0%5D=GMl5ys3AJdX_WPQVF6dLj1BqOUK4coCnSegHN01NrsXZtfwM7YpGg_6oiJv9YlXQHHLHQnyK2W9dTxD30n-rfg.bFAzh2nIeeqGlH8a6NVzRaKpfPD6MnsW1ZWQuDw5UzFr7JHRmrxUwFEpl5HnfWx_4Yrx79wTUco_GIDafSJ1ZA&_sg%5B1%5D=3hgk0lGKITs8Oi-yCFfINfoGl18pYNEU6r229yD4RDZiQELZnzA7We8sHOR9uB28h0yOshtDAEiqYvsZemxmmiy_5knbtNw-FBjyw2Qf7qoT.bFAzh2nIeeqGlH8a6NVzRaKpfPD6MnsW1ZWQuDw5UzFr7JHRmrxUwFEpl5HnfWx_4Yrx79wTUco_GIDafSJ1ZA&_iepl=" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+</div>
+  </div>
+</div>
+
+    </div>
+
+  </section>
+
+  <section id="AllPublications" class="home-section wg-pages   " >
+    <div class="container">
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Selected Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Automated ML Workflow for Distributed Big Data Using Analytics Zoo</span>
+	  </h4>
+
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        Tutorial In the Conference on Computer Vision and Pattern Recognition (CVPR) 2020 
+      </div>
+ 
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://jason-dai.github.io/cvpr2020/" target="_blank" rel="noopener">
+  TUTORIAL
+</a>
+      </div>
+
+</div>  
+  
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+        <span itemprop="name">BigDL: A Distributed Deep Learning Framework for Big Data</span>
+	</h4>
+
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai, Yiheng Wang, Xin Qiu, Ding Ding, Yao Zhang, Yanzhang Wang, Xianyan Jia, Cherry Zhang, Yan Wan, Zhichao Li, Jiao Wang, Shengsheng Huang, Zhongyuan Wu, Yang Wang, Yuhao Yang, Bowen She, Dongjie Shi, Qi Lu, Kai Huang, Guoqiong Song</span></span>
+
+  </div>
+ 
+       <div class="pub-publication">
+        In ACM Symposium of Cloud Computing conference (SoCC) 2019
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1804.05839.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+      </div>
+
+</div>
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Build Deep Learning Applications for Big Data Platforms Using Analytics Zoo</span>
+	  </h4>
+
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+       Tutorial in the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI) 2019
+      </div>
+	  
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://jason-dai.github.io/aaai2019/" target="_blank" rel="noopener">
+  TUTORIAL
+</a>
+      </div>
+
+</div>
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Building Deep Learning Applications on Big Data Platforms</span>
+	  </h4>
+
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        Tutorial In the Conference on Computer Vision and Pattern Recognition (CVPR) 2018 
+      </div>
+ 
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://jason-dai.github.io/cvpr2018/" target="_blank" rel="noopener">
+  TUTORIAL
+</a>
+      </div>
+
+</div>
+
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Experience from Hadoop Benchmarking with HiBench: From Micro-Benchmarks Toward End-to-End Pipelines</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Lan Yi, Jinquan Dai</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of the 2013 Workshop Series on Big Data Benchmarking
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://rd.springer.com/content/pdf/10.1007%2F978-3-319-10596-3_4.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+  
+
+</div>
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">ReNIC: Architectural Extension to SR-IOV I/O Virtualization for Efficient Replication</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Yaozu Dong, Yu Chen, Zhenhao Pan, Jinquan Dai, Yunhong Jiang</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        ACM Transactions on Architecture and Code Optimization (TACO), January 2012
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/pdf/10.1145/2086696.2086719?download=true" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+  
+
+</div>   
+
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">HiTune: Dataflow-Based Performance Analysis for Big Data Cloud</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai, Shengsheng Huang, Jie Huang, Bo Huang, Yan Liu</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In USENIX Annual Technical Conference (ATC) 2011 
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.usenix.org/legacy/event/atc11/tech/final_files/Dai.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+  
+
+</div>
+   
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">The HiBench benchmark suite: Characterization of the MapReduce-based data analysis</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jason Dai, Shengsheng Huang, Jie Huang, Yan Liu</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of the 26th International Conference on Data Engineering Whokshops (ICDEW) 2010
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://pdfs.semanticscholar.org/0a4f/74e5b8cfc168a36e3cb8aceb9c70315dde99.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+  
+
+</div>    
+   
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Design Patterns for Internet-Scale Services</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jinquan Dai, Bo Huang</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of the 25th International Conference on Data Engineering Workshops (ICDEW) 2009
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://rd.springer.com/content/pdf/10.1007%2F978-3-642-19294-4.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+  
+
+</div>   
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Towards high-quality I/O virtualization</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Yaozu Dong, Jinquan Dai, Zhiteng Huang, Haibing Guan, Kevin Tian, Yunhong Jiang</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In Proceedings of SYSTOR 2009
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/doi/pdf/10.1145/1534530.1534547?download=true" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+
+</div>    
+
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Latency Hiding in Multi-Threading and Multi-Processing of Network Applications</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Xiaofeng Guo, Jinquan Dai, Long Li, Zhiyuan Lv, Prashant R. Chandra</span></span>
+
+  </div>
+
+      <div class="pub-publication">
+        In the 16th International Conference on Parallel Architecture and Compilation Techniques (PACT) 2007
+      </div>
+
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=1299054" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+
+</div>    
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Automatic multithreading and multiprocessing of C programs for IXP</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Long Li, Bo Huang, Jinquan Dai, Luddy Harrison</span></span>
+
+  </div>
+  
+      <div class="pub-publication">
+        In ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPOPP) 2005
+      </div>
+	  
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=1065963" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+
+</div>  
+
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+      <h4 class="recent-title mb-1 mt-3" itemprop="name">
+	    <i class="fa fa-list-alt fa-sm" aria-hidden="true"></i>
+		<span itemprop="name">Automatically Partitioning Packet Processing Applications for Pipelined Architectures</span>
+	  </h4>
+  
+  <div class="article-metadata" itemprop="author">
+
+  <span itemscope itemprop="author">
+      <span itemprop="name">Jinquan Dai, Bo Huang, Long Li, Luddy Harrison</span></span>
+
+  </div>
+  
+      <div class="pub-publication">
+        In ACM Sigplan 2005 Conference on Programming Language Design and Implementation (PLDI 2005)
+      </div>
+	  
+      <div class="pub-links">
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=1065039" target="_blank" rel="noopener">
+  PDF
+</a>
+      </div>
+
+</div>  
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2019 Jason Dai &middot; 
+
+      Powered by the
+      <a href="#" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="#" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
