@@ -21,7 +21,9 @@ Steps to reproduce the behavior:
 If applicable, add screenshots to help explain your problem.
 
 **Environment information**
-Please attach the output of the environment check script: https://github.com/intel/ipex-llm/blob/main/python/llm/scripts/env-check.bat or https://github.com/intel/ipex-llm/blob/main/python/llm/scripts/env-check.sh
+Please attach the output of the environment check script, using
+- https://github.com/intel/ipex-llm/blob/main/python/llm/scripts/env-check.bat, or
+- https://github.com/intel/ipex-llm/blob/main/python/llm/scripts/env-check.sh
 
 **Additional context**
 Add any other context about the problem here.
